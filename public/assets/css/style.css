@@ -20,6 +20,7 @@ body#intro-page #theme_panel{
 }
 /*header variations (patterned backgrounds)*/
 .main-banner.header-pattern {
+	text-align: center;
 	background-color: #000;
 	background-repeat: repeat;
 	background-position: 0 0;
@@ -288,7 +289,7 @@ body#intro-page #theme_panel{
 	margin-bottom: 72px;
 }
 .reach-the-goal header {
-	padding-right: 80px;
+	/*padding-right: 80px;*/
 	border-bottom: 1px solid #eeeeee;
 	padding-bottom: 18px;
 	margin-bottom: 24px;
@@ -312,8 +313,8 @@ body#intro-page #theme_panel{
 	padding: 47px 22px;
 }
 .best-in-market {
+	text-align: center;
 	font-size: 24px;
-	font-style: italic;
 	line-height: 1;
 	font-weight: normal;
 }
@@ -2253,9 +2254,13 @@ html, .error-page, .error-page #wrapper {
 
 p {	
 	font-size: 18px;
+	margin-bottom: 30px
 }
 
 li {	
 	font-size: 18px;
 }
 
+header {
+	text-align: center;	
+}
