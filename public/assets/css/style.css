@@ -475,7 +475,7 @@ body#intro-page #theme_panel{
 }
 
 .about-creating {
-	background-image: url(../img/img-about-01.png);
+	background-image: url(../images/world.png);
 	background-repeat: repeat-y;
 	background-size: auto 100%;
 	background-position: 0 0;
@@ -537,7 +537,7 @@ body#intro-page #theme_panel{
 	position: absolute;
 	left: 0;
 	top: 0;
-	color: #eee2d3;
+	
 	font-style: italic;
 }
 .num-list li:after {
