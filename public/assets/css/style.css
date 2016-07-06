@@ -144,14 +144,21 @@ body#intro-page #theme_panel{
 	font-size: 24px;
 	margin-bottom: 20px;
 }
+.banner-text h1 span {
+	color: #ed2930;
+}
 .banner-text .side-border:after, .banner-text .side-border:before {
 	width: 40px;
 	background: #fff;
 }
 .banner-text p {
+	color: #fff;
 	font-size: 13px;
 	margin-bottom: 20px;
 	padding: 0 54px;
+}
+.banner-text p span {
+	color: #ed2930;
 }
 .banner-text .social-icons {
 	margin-bottom: 20px;
