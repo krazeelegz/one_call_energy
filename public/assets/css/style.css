@@ -564,7 +564,7 @@ body#intro-page #theme_panel{
 }
 .our-experience .h5 {
 	color: #787878;
-	margin: 4px 0 31px;
+	margin: 4px 0 15px;
 }
 .our-experience p {
 	text-indent: 38px;
@@ -2259,6 +2259,10 @@ p {
 
 li {	
 	font-size: 18px;
+}
+
+.arrow-list li {
+	font-size: 15px;
 }
 
 header {
